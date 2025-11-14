@@ -1,5 +1,3 @@
-# CPMAI
-
 # 📘 CPMAI Exam Study Guide
 
 A structured companion for mastering the **Cognitive Project Management for Artificial Intelligence (CPMAI)** framework and preparing for the CPMAI exam.
@@ -109,11 +107,6 @@ A conceptual overview of the CPMAI framework:
 ```mermaid
 mindmap
   root((CPMAI Framework))
-    Preface & Overview
-      About Study Guide
-      Why This Book Is For You
-      How to Use This Book
-      CPMAI Certification Overview
     Phase I: Business Understanding
       Business objectives
       Problem statement
@@ -152,7 +145,3 @@ mindmap
       Operationalization
       Monitoring & maintenance
       Continuous improvement
-    Supporting Toolkit
-      Study preparation checklist
-      Templates & checklists
-      Practice questions & answers
